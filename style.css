@@ -3,3 +3,63 @@
     padding: 0;
     box-sizing: border-box;
 }
+.navbar-brand{
+    color: black;
+    font-size: 2rem;
+    font-family: "Montez", cursive;
+}
+.navbar-brand:hover{
+    color: black;
+}
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+    font-family: "Ysabeau Infant", sans-serif;     /* main font  */
+}
+.nav-link:hover{
+    color: black;
+}
+.search{
+    height: 40px;
+    width: 80%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid green;
+
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    outline: none;
+    border: none;
+    background: green;
+    color: white;
+    font-weight: 700;
+    border-radius: 50px;
+
+}
+.main{
+
+    background: url(./img/grey-granite-countertops-for-kitchen.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+.main h1{
+    font-style: 4ren;
+    font-weight: 700;
+    color: white;
+}
+.btn1{
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: green;
+    font-weight: 700;
+    border-radius: 50px;
+}
