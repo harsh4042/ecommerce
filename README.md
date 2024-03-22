@@ -24,9 +24,9 @@ The kitchenGOODS project is a demonstration of building a simple yet functional 
 
  ![image](https://github.com/harsh4042/ecommerce/assets/106963882/66ff6a42-9cfe-4867-8522-a8c14db55814)
 
- ![image](https://github.com/harsh4042/ecommerce/assets/106963882/af7e278e-1447-43db-b230-94ceef6633f0)
+ ![image](https://github.com/harsh4042/ecommerce/assets/106963882/e9c29e92-bfd6-41e7-a53e-2de14aa0f999)
 
- ![image](https://github.com/harsh4042/ecommerce/assets/106963882/e8568207-d090-4a6d-9abe-668ce56a6d4b)
+ ![image](https://github.com/harsh4042/ecommerce/assets/106963882/0b9f5f85-1f2c-4927-9af5-93985e8e4a45)
 
  ![image](https://github.com/harsh4042/ecommerce/assets/106963882/acdf1ecf-0458-482a-b4da-a9bc06d134c4)
 
