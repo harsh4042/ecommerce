@@ -1,21 +1,20 @@
 # kitchenGOODS - E-commerce Website Homepage
 
-Welcome to the kitchenGOODS project repository! This is a small-scale project aimed at creating an e-commerce website homepage for kitchen-related goods using HTML and CSS.
+Welcome to the kitchenGOODS project repository! This is a small-scale project aimed at creating an e-commerce website homepage for kitchen-related goods using HTML, CSS and Bootstrap 5.
 Project Overview
 
-The kitchenGOODS project is a demonstration of building a simple yet functional e-commerce homepage. It incorporates basic HTML structure and styling with CSS to create an appealing and user-friendly interface. The project showcases essential skills in web development, including layout design, styling elements, and adding interactivity through CSS.
+The kitchenGOODS project is a demonstration of building a simple yet functional e-commerce homepage. It incorporates basic HTML structure and styling with CSS and Bootstrap 5 to create an appealing and user-friendly interface. The project showcases essential skills in web development, including layout design, styling elements, and adding interactivity through CSS.
  
  Features:
 
  Responsive design for various screen sizes
  Product showcase with images and descriptions
  Navigation menu for easy browsing
- Call-to-action buttons for seamless user interaction
 
    
  Skills Gained:
 
- Proficiency in HTML and CSS
+ Proficiency in HTML, CSS and Bootstrap 5
  Understanding of web layout design principles
  Ability to style elements using CSS properties
  Experience in creating responsive web design
