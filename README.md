@@ -36,6 +36,5 @@ The kitchenGOODS project is a demonstration of building a simple yet functional 
  
 
 If you're interested in contributing to kitchenGOODS, feel free to fork this repository and submit a pull request with your proposed changes. You can contribute by adding new features, fixing bugs, or enhancing the existing codebase. Your contributions are highly appreciated!
-License
 
 Thank you for checking out! If you have any questions or suggestions, please don't hesitate to contact me bagulharshal456@gmail.com. Happy coding! 🚀
